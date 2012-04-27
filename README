@@ -3,9 +3,8 @@ This is the repo for the hw 6 assignment.
 
 Discussion Questions:
 
-1)  OO design is always a good idea, but this is a particulary good example because it helps modularize the program.
-  This can be applied for other uses, and encapsulates a single job, that it does well.
-
+1) Yes this is a good example because the code helps modularize the program by breaking up the process functionalities 
+into their own objects. This can also be applied for other uses that encapsulate a single job that it does well.
 
 
 2) We could make an option that we pass into the deconstructor that specifies which process to use. This would allow 
