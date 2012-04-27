@@ -3,8 +3,13 @@ This is the repo for the hw 6 assignment.
 
 Discussion Questions:
 
-1)
+1)  OO design is always a good idea, but this is a particulary good example because it helps modularize the program.
+  This can be applied for other uses, and encapsulates a single job, that it does well.
 
-2)
 
-3)
+
+2) We could make an option that we pass into the deconstructor that specifies which process to use. This would allow 
+  general freedom on the issue.
+
+3) We could have it save it's last output to somewhere global the the parent can grab that data from when called for or
+  when the parent closes.
