@@ -6,7 +6,6 @@ Discussion Questions:
 1) Yes this is a good example because the code helps modularize the program by breaking up the process functionalities 
 into their own objects. This can also be applied for other uses that encapsulate a single job that it does well.
 
-
 2) We could make an option that we pass into the deconstructor that specifies which process to use. This would allow 
   general freedom on the issue.
 
